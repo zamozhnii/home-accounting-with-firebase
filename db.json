@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "email": "zamozhnii@gmail.com",
+            "password": "12345678",
+            "name": "Администратор"
+        }
+    ],
+    "bill": {
+        "value": 100000,
+        "currency": "RUB"
+    },
+    "categories": [
+        {
+            "name": "Дом",
+            "capacity": 15000,
+            "id": 1
+        },
+        {
+            "name": "Еда",
+            "capacity": 10000,
+            "id": 2
+        }
+    ]
+}
